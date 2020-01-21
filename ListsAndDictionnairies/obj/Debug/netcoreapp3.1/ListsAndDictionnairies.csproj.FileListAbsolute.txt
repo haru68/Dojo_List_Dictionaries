@@ -1,0 +1,11 @@
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\obj\Debug\netcoreapp3.1\ListsAndDictionnairies.csprojAssemblyReference.cache
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\obj\Debug\netcoreapp3.1\ListsAndDictionnairies.AssemblyInfoInputs.cache
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\obj\Debug\netcoreapp3.1\ListsAndDictionnairies.AssemblyInfo.cs
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.exe
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.deps.json
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.runtimeconfig.json
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.runtimeconfig.dev.json
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.dll
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\bin\Debug\netcoreapp3.1\ListsAndDictionnairies.pdb
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\obj\Debug\netcoreapp3.1\ListsAndDictionnairies.dll
+C:\Users\Sartori\Documents\WCS\Dojo\Dojo5_Liste_Dictionnaires\ListsAndDictionnairies\obj\Debug\netcoreapp3.1\ListsAndDictionnairies.pdb
